@@ -17,9 +17,13 @@ Profile avatar support
 
 Light/Dark mode
 
+Leaderboard 
+
 Fully responsive design
 
 Fast performance with Vite
+
+
 
 🛠 Tech Stack
 
@@ -90,8 +94,7 @@ public/
 
 🙋 Author
 
-Abhinandan Ghosh
-Creator of Quizio
+Quizo Team (Students of Brainware University)
 
 📜 License
 
